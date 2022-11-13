@@ -1,1 +1,171 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T16:50:05.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.1" etag="xOh65d0O-0Q6jmX0FkqV" type="github"><diagram id="ctMaPXtDdKgN75DW7tMa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-13T18:54:44.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DHylfgOC4onpTftJTKOs" version="20.5.1" type="github">
+  <diagram id="ctMaPXtDdKgN75DW7tMa" name="Página-1">
+    <mxGraphModel dx="2620" dy="1448" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ujoBmqKqC1valDMAW49d-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ujoBmqKqC1valDMAW49d-3" target="ujoBmqKqC1valDMAW49d-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ujoBmqKqC1valDMAW49d-3" target="ujoBmqKqC1valDMAW49d-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ujoBmqKqC1valDMAW49d-3" target="ujoBmqKqC1valDMAW49d-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-3" value="Bases de datos relacionales&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="273" y="5" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-4" value="Bases de datos" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="69" y="-81" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-5" value="Modelo de datos conceptiual" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="523" y="-277" width="372" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-6" value="Modelo de datos&amp;nbsp;Físico &lt;br&gt;(requiere entendimient o del gestor de bases de datos)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="506" y="5" width="398" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-7" value="SGBD" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="625" y="209" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-9" value="MySQL" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="714" y="424" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-10" value="&lt;span style=&quot;background-color: transparent; color: rgb(18, 38, 63); font-family: Roboto, sans-serif; text-align: start;&quot;&gt;permite escoger múltiples motores de almacenamiento para cada tabla.&lt;/span&gt;&lt;br&gt;&lt;ol style=&quot;box-sizing: inherit; padding: 0px; margin: 0px; border: 0px; outline: 0px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; vertical-align: baseline; list-style: none; color: rgb(18, 38, 63); font-family: Roboto, sans-serif; text-align: start;&quot; class=&quot;lista-ol--cuadro&quot; data-v-c855534e=&quot;&quot;&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;2&lt;/span&gt;&lt;/div&gt;Agrupación de transacciones, pudiendo reunirlas de forma múltiple desde varias conexiones con el fin de incrementar el número de transacciones por segundo.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;3&lt;/span&gt;&lt;/div&gt;Conectividad segura.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;4&lt;/span&gt;&lt;/div&gt;Ejecución de transacciones y uso de claves foráneas.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;5&lt;/span&gt;&lt;/div&gt;Presenta un amplio subconjunto del lenguaje SQL.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;6&lt;/span&gt;&lt;/div&gt;Replicación.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;7&lt;/span&gt;&lt;/div&gt;Disponible en casi todas las plataformas o sistemas.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;8&lt;/span&gt;&lt;/div&gt;Búsqueda e indexación de campos de texto.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;9&lt;/span&gt;&lt;/div&gt;Utiliza varias herramientas para portabilidad.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;10&lt;/span&gt;&lt;/div&gt;Tablas hash en memorias temporales.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;11&lt;/span&gt;&lt;/div&gt;Uso de tablas en disco b-tree para búsquedas rápidas con compresión de índice.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;12&lt;/span&gt;&lt;/div&gt;Ofrece un sistema de contraseñas y privilegios seguros de verificación basado en el host y tráfico de contraseñas encriptado al conectarse a un servidor.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;13&lt;/span&gt;&lt;/div&gt;Uso de multihilos mediante hilos de Kernel.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;14&lt;/span&gt;&lt;/div&gt;Soporta gran cantidad de datos, incluso con más de 50 millones de registros.&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px 0px 10px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; display: flex;&quot; data-v-c855534e=&quot;&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin: 0px 8px 0px 0px; padding: 0px; border: 0px; outline: 0px; background: rgb(255, 167, 38); vertical-align: baseline; display: inline-block; min-width: 24px; height: 24px; color: rgb(0, 0, 0); position: relative; font-weight: 700;&quot; class=&quot;lista-ol--cuadro__vineta&quot; data-v-c855534e=&quot;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent; vertical-align: baseline; position: absolute; top: 12px; left: 12px; transform: translate(-50%, -50%); line-height: 1em;&quot; data-v-c855534e=&quot;&quot;&gt;15&lt;/span&gt;&lt;/div&gt;En las últimas versiones, se permiten hasta 64 índices por tablas. Cada índice puede consistir desde 1 a 16 columnas o partes de columnas. El máximo ancho de límite es de 1.000 bytes&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="171" y="662" width="839" height="607" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-11" value="MySQL Workbench" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="91" y="1338" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-12" value="Diseño&lt;br&gt;Desarrollar&lt;br&gt;Administrar&lt;br&gt;Panel de rendimiento visual&lt;br&gt;Migración de base de datos&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-56" y="1458" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-13" value="Bases de datos no Relacionales" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="279" y="-155" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-14" value="Modelo de datos lgíco" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-147" width="373" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-23" value="Compartimiento de datos" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="337" y="195" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-24" value="Control de redundancia de datos" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="433" y="99" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-25" value="Manejo de integridad en los datos" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="382" y="291" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-26" value="Soporte para control de transacciones y recuperación de fallas" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="469" y="393" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-27" value="Independencia de los datos" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="850" y="299" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-28" value="Seguridad" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="884" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-29" value="Velocidad" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="798" y="105" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-30" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ujoBmqKqC1valDMAW49d-7" target="ujoBmqKqC1valDMAW49d-29">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="672" y="211" as="sourcePoint" />
+            <mxPoint x="812" y="211" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-31" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ujoBmqKqC1valDMAW49d-7" target="ujoBmqKqC1valDMAW49d-28">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="672" y="211" as="sourcePoint" />
+            <mxPoint x="812" y="211" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-32" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ujoBmqKqC1valDMAW49d-7" target="ujoBmqKqC1valDMAW49d-27">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="672" y="211" as="sourcePoint" />
+            <mxPoint x="812" y="211" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-33" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ujoBmqKqC1valDMAW49d-24">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="672" y="211" as="sourcePoint" />
+            <mxPoint x="812" y="211" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-34" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ujoBmqKqC1valDMAW49d-7" target="ujoBmqKqC1valDMAW49d-23">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="615" y="230" as="sourcePoint" />
+            <mxPoint x="812" y="211" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-35" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ujoBmqKqC1valDMAW49d-7" target="ujoBmqKqC1valDMAW49d-25">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="667" y="351" as="sourcePoint" />
+            <mxPoint x="807" y="351" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-37" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ujoBmqKqC1valDMAW49d-7" target="ujoBmqKqC1valDMAW49d-26">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="615" y="350" as="sourcePoint" />
+            <mxPoint x="755" y="350" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-38" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-106" y="141" as="sourcePoint" />
+            <mxPoint x="34" y="141" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-39" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-96" y="151" as="sourcePoint" />
+            <mxPoint x="44" y="151" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-40" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="-86" y="161" as="sourcePoint" />
+            <mxPoint x="54" y="161" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-41" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ujoBmqKqC1valDMAW49d-7" target="ujoBmqKqC1valDMAW49d-9">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="139" y="596" as="sourcePoint" />
+            <mxPoint x="279" y="596" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-42" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ujoBmqKqC1valDMAW49d-6" target="ujoBmqKqC1valDMAW49d-7">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="47" y="356" as="sourcePoint" />
+            <mxPoint x="187" y="356" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-43" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ujoBmqKqC1valDMAW49d-4" target="ujoBmqKqC1valDMAW49d-3">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="62" y="34" as="sourcePoint" />
+            <mxPoint x="295" y="127" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujoBmqKqC1valDMAW49d-44" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ujoBmqKqC1valDMAW49d-13">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="229" y="-31.830000000000013" as="sourcePoint" />
+            <mxPoint x="369" y="-31.830000000000013" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
